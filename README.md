@@ -2,7 +2,7 @@
 
 I am a full-stack developer with over 2 years of valuable commercial experience, with a focus on frontend development.
 
-On the frontend side, I'm good in React and its entire ecosystem, harnessing its power to build dynamic and responsive web applications. I take pride in creating intuitive and visually appealing interfaces that leave a lasting impression on users.
+On the frontend side, I'm good in React and its entire ecosystem, harnessing its power to build dynamic and responsive web applications. I'm trying to build intuitive and visually appealing interfaces that leave a lasting impression on users.
 
 When it comes to the backend, I'm experienced in leveraging the power of Node.js (with Express) to create robust and scalable server-side solutions. Additionally, I've had the pleasure of working with C# (.NET), expanding my skill set and tackling diverse challenges.
 

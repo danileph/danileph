@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Danil 👋
 
-<!--
-**danileph/danileph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack developer with over 2 years of valuable commercial experience, with a focus on frontend development.
 
-Here are some ideas to get you started:
+On the frontend side, I'm good in React and its entire ecosystem, harnessing its power to build dynamic and responsive web applications. I take pride in creating intuitive and visually appealing interfaces that leave a lasting impression on users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When it comes to the backend, I'm experienced in leveraging the power of Node.js (with Express) to create robust and scalable server-side solutions. Additionally, I've had the pleasure of working with C# (.NET), expanding my skill set and tackling diverse challenges.
+
+My journey as a developer has been driven by a curiosity for innovative solutions and a dedication to continuous learning. I believe that a proactive and collaborative approach is key to delivering successful projects that exceed expectations.
+
+- 🔭 I’m currently working on several projects
+- 🌱 I’m currently learning Flutter and C#
+- 📫 How to reach me: danileph@bk.ru or [t.me/danileph](https://t.me/danileph)
+- 👨‍💻 Read more about my projects and experience at [danileph.ru](https://danileph.ru)
+- ⚡ Fun fact: I love learning foreign languages (English and Chinese)
+
+### My technology stack 👨🏻‍💻
+TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, Node.js, Express, Redux, RTK Query, TailwindCSS, SWR, Recoil, Emotion, Git, Docker, Strapi, MongoDB, SQL, PostgreSQL

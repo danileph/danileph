@@ -15,4 +15,4 @@ My journey as a developer has been driven by a curiosity for innovative solution
 - ⚡ Fun fact: I love learning foreign languages (English and Chinese)
 
 ### My technology stack 👨🏻‍💻
-TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, Node.js, Express, Redux, RTK Query, TailwindCSS, SWR, Recoil, Emotion, Git, Docker, Strapi, MongoDB, SQL, PostgreSQL
+TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, Node.js, Express, Redux, RTK Query, TailwindCSS, SWR, Recoil, Emotion, Git, Docker, Strapi, MongoDB, SQL, PostgreSQL.

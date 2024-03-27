@@ -9,10 +9,10 @@ When it comes to the backend, I'm experienced in leveraging the power of Node.js
 My journey as a developer has been driven by a curiosity for innovative solutions and a dedication to continuous learning. I believe that a proactive and collaborative approach is key to delivering successful projects that exceed expectations.
 
 - 🔭 I’m currently working on several projects
-- 🌱 I’m currently learning Flutter and C#
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: danileph@bk.ru or [t.me/danileph](https://t.me/danileph)
 - 👨‍💻 Read more about my projects and experience at [danileph.ru](https://danileph.ru)
 - ⚡ Fun fact: I love learning foreign languages (English and Chinese)
 
 ### My technology stack 👨🏻‍💻
-TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, Node.js, Express, Redux, RTK Query, TailwindCSS, SWR, Recoil, Emotion, Git, Docker, Strapi, MongoDB, SQL, PostgreSQL.
+TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, Node.js, Express, Redux, RTK Query, TailwindCSS, SWR, Recoil, Emotion, Git, Docker, Strapi, C#, .NET, Entity Framework, MediatR,  MS SQL, MongoDB, SQL, PostgreSQL.
